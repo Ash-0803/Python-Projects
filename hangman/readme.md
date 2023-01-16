@@ -7,4 +7,5 @@ Now, everytime you guess the wrong letter, you lose a life
 and hangman is being drawn. Once the hangman is completed,
 you have lost all your lives and you loose the game.
 
-So, guess the right letters and have fun !
+If you're running it locally, then run the *Hangman2.py* file.
+Well, all that's left is to guess the right letters to not be hanged !
